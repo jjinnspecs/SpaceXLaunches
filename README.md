@@ -39,7 +39,7 @@ A web application that displays information about SpaceX launches. It features a
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/spaceX-launches.git
+   git clone https://github.com/jjinnspecs/spaceX-launches.git
    cd spaceX-launches
    ```
 
