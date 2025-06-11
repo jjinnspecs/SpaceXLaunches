@@ -1,6 +1,6 @@
 # SpaceX Launches
 
-This project is a web application that displays information about SpaceX launches. It features a user-friendly interface built with React and Chakra UI for the frontend, and an Express.js server for the backend API.
+A web application that displays information about SpaceX launches. It features a user-friendly interface built with React and Chakra UI for the frontend, and an Express.js server for the backend API.
 
 ## Table of Contents
 
